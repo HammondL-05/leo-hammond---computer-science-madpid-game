@@ -1,7 +1,8 @@
 {
     "name": "Leo Hammond - Computer Science MADPID Game",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "color-coded-tilemap": "*"
     },
     "description": "",
     "files": [
